@@ -1,0 +1,20 @@
+{
+    "name": "john/rock-paper-scissors",
+    "description": "rock paper scissors game",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dimitar Yanev",
+            "email": "mitko.yanev21@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Game": "src"
+        },
+        "require": {
+
+        }
+    }
+}
